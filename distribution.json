@@ -13,7 +13,7 @@
       "description": "OPGA Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "opga.inovaperf.com",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -236,13 +236,13 @@
           ]
         },
         {
-          "id": "moe.plushie:armourers_workshop:1.12.2-0.49.1.521@jar",
+          "id": "moe.plushie:armourers_workshop:1.12.2-0.51.0.658@jar",
           "name": "Armourer's Workshop",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2504837,
-            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/Armourers-Workshop-1.12.2-0.49.1.521.jar",
-            "MD5": "f8148cc56fffd2a056111115dc240eca"
+            "size": 2671847,
+            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/Armourers-Workshop-1.12.2-0.51.0.658.jar",
+            "MD5": "1e41dbd9c897be56a31f0bfd976155ed"
           }
         },
         {
@@ -290,9 +290,9 @@
           "name": "DrZhark's CustomSpawner",
           "type": "ForgeMod",
           "artifact": {
-            "size": 722239,
-            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/CustomMobSpawner-3.11.4.jar",
-            "MD5": "cd52040afaf2cf8b50da6d9bb9909188"
+            "size": 722270,
+            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/CustomMobSpawner-3.11.5.jar",
+            "MD5": "fec50567081c942dfab330a60aac695a"
           }
         },
         {
@@ -300,19 +300,19 @@
           "name": "CustomNPCs",
           "type": "ForgeMod",
           "artifact": {
-            "size": 9921925,
-            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/CustomNPCs_1.12.2-01Nov20snapchat.jar",
-            "MD5": "6be6590c01a1cc0631c7a1364578b6f7"
+            "size": 9921391,
+            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/CustomNPCs_1.12.2-29Nov20snapshot.jar",
+            "MD5": "ceea6ef1bf0da9bde60c927fac1c4c6b"
           }
         },
         {
-          "id": "com.elytradev:davincisvessels:1.12-6.340-full(1)@jar",
+          "id": "com.elytradev:davincisvessels:1.12-6.355-full@jar",
           "name": "Davinci's Vessels",
           "type": "ForgeMod",
           "artifact": {
-            "size": 538295,
-            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/davincisvessels-1.12-6.340-full(1).jar",
-            "MD5": "fd744ba7fbc7647a062ffdd3b3f86bf5"
+            "size": 545210,
+            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/davincisvessels-1.12-6.355-full.jar",
+            "MD5": "3fb2d315cf4d00fcd02c45780b854289"
           }
         },
         {
@@ -346,13 +346,13 @@
           }
         },
         {
-          "id": "com.elytradev:MovingWorld:1.12-6.342@jar",
+          "id": "com.elytradev:MovingWorld:1.12-6.353@jar",
           "name": "Moving World",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1255887,
-            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/movingworld-1.12-6.342-full.jar",
-            "MD5": "9ef54bc4402d703fda1ce74113edad34"
+            "size": 1198794,
+            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/movingworld-1.12-6.353-full.jar",
+            "MD5": "7a30c2638cbf3761c1a2797097a9505d"
           }
         },
         {
