@@ -300,9 +300,9 @@
           "name": "CustomNPCs",
           "type": "ForgeMod",
           "artifact": {
-            "size": 9921391,
-            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/CustomNPCs_1.12.2-29Nov20snapshot.jar",
-            "MD5": "ceea6ef1bf0da9bde60c927fac1c4c6b"
+            "size": 10440159,
+            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/CustomNPCs_1.12.2-(01Oct19).jar",
+            "MD5": "e8f289624d99a67ee3b78c6524b96b45"
           }
         },
         {
