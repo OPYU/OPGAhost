@@ -13,7 +13,7 @@
       "description": "OPGA Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
       "icon": null,
       "version": "1.0.0",
-      "address": "opga.inovaperf.com",
+      "address": "localhost:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -236,13 +236,13 @@
           ]
         },
         {
-          "id": "moe.plushie:armourers_workshop:1.12.2-0.51.0.658@jar",
+          "id": "moe.plushie:armourers_workshop:1.12.2-0.49.1.521@jar",
           "name": "Armourer's Workshop",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2671847,
-            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/Armourers-Workshop-1.12.2-0.51.0.658.jar",
-            "MD5": "1e41dbd9c897be56a31f0bfd976155ed"
+            "size": 2504837,
+            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/Armourers-Workshop-1.12.2-0.49.1.521.jar",
+            "MD5": "f8148cc56fffd2a056111115dc240eca"
           }
         },
         {
@@ -300,9 +300,9 @@
           "name": "CustomNPCs",
           "type": "ForgeMod",
           "artifact": {
-            "size": 10440159,
-            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/CustomNPCs_1.12.2-(01Oct19).jar",
-            "MD5": "e8f289624d99a67ee3b78c6524b96b45"
+            "size": 9921391,
+            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/CustomNPCs_1.12.2-29Nov20snapshot.jar",
+            "MD5": "ceea6ef1bf0da9bde60c927fac1c4c6b"
           }
         },
         {
@@ -406,6 +406,36 @@
           }
         },
         {
+          "id": "org.valkyrienskies.mod:valkyrienskies:skies-1.0.0+8388a6f23c-all@jar",
+          "name": "Valkyrien",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6392761,
+            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/valkyrien-skies-1.0.0+8388a6f23c-all.jar",
+            "MD5": "b2772e93c672c3cf3e46a6da880241c9"
+          }
+        },
+        {
+          "id": "org.valkyrienskies.addon.control:vs_control:control-1.0.0+8388a6f23c-all@jar",
+          "name": "Vs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9260206,
+            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/vs-control-1.0.0+8388a6f23c-all.jar",
+            "MD5": "fb3ba33a6030ef5fb23621b7a6f42e9e"
+          }
+        },
+        {
+          "id": "org.valkyrienskies.addon.world:vs_world:world-1.0.0+8388a6f23c-all@jar",
+          "name": "Vs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2060896,
+            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/vs-world-1.0.0+8388a6f23c-all.jar",
+            "MD5": "808ff8bb12fb55c290bd99323e66d425"
+          }
+        },
+        {
           "id": "com.westeroscraft:westerosblocks:4.0.4-96@jar",
           "name": "WesterosBlocks",
           "type": "ForgeMod",
@@ -413,16 +443,6 @@
             "size": 17654349,
             "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/WesterosBlocks.jar",
             "MD5": "ac07db8c2a1dbd6f3d2e15d77a33c4d5"
-          }
-        },
-        {
-          "id": "org.valkyrienskies.addon.control:vs_control:1.0-alpha-1@jar",
-          "name": "OPGA2",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 9219227,
-            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar",
-            "MD5": "cd2d03de6d910f7d54eb0d80ba0a51ff"
           }
         }
       ]
