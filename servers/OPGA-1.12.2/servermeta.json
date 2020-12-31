@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "name": "OPGA (Minecraft 1.12.2)",
     "description": "OPGA Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
-    "address": "gm11.inovaperf.fr:25742",
+    "address": "opga.inovaperf.com",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",

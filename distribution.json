@@ -13,7 +13,7 @@
       "description": "OPGA Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
       "icon": null,
       "version": "1.0.0",
-      "address": "gm11.inovaperf.fr:25742",
+      "address": "opga.inovaperf.com",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -485,7 +485,7 @@
       "description": "OPGAStaff Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
       "icon": null,
       "version": "1.0.0",
-      "address": "gm10.inovaperf.fr:25954",
+      "address": "opgastaff.inovaperf.com",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
