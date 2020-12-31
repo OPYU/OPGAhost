@@ -4,14 +4,14 @@
     "version": "1.0.0",
     "name": "OPGAStaff (Minecraft 1.12.2)",
     "description": "OPGAStaff Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
-    "address": "opgastaff.inovaperf.com:25954",
+    "address": "gm10.inovaperf.fr:25954",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
     "mainServer": false,
-    "autoconnect": true
+    "autoconnect": false
   },
   "forge": {
     "version": "14.23.5.2854"

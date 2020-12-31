@@ -13,7 +13,7 @@
       "description": "OPGA Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
       "icon": null,
       "version": "1.0.0",
-      "address": "opga.inovaperf.com:25742",
+      "address": "gm11.inovaperf.fr:25742",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -21,7 +21,7 @@
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": true,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2854:universal",
@@ -485,7 +485,7 @@
       "description": "OPGAStaff Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
       "icon": null,
       "version": "1.0.0",
-      "address": "opgastaff.inovaperf.com:25954",
+      "address": "gm10.inovaperf.fr:25954",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -493,7 +493,7 @@
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": false,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2854:universal",
