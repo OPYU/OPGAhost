@@ -458,6 +458,36 @@
           }
         },
         {
+          "id": "org.valkyrienskies.addon.control:vs_control:1.0.0+6b23536a5c@jar",
+          "name": "Valkyrien Skies Control",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7679526,
+            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/vs-control.jar",
+            "MD5": "7999a7003ecb8c09870c6f371a7eff6b"
+          }
+        },
+        {
+          "id": "org.valkyrienskies.addon.world:vs_world:1.12.2-1.0.0@jar",
+          "name": "Valkyrien Skies World",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2084852,
+            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/vs-world.jar",
+            "MD5": "140e7f682b7d56bf163e40c7f8ba2e8c"
+          }
+        },
+        {
+          "id": "org.valkyrienskies.mod:valkyrienskies:1.0.0+8049df3f10@jar",
+          "name": "Valkyrien Skies Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8248176,
+            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/vs.jar",
+            "MD5": "7befd03a4fa493acd263ed43dbed36b6"
+          }
+        },
+        {
           "id": "com.westeroscraft:westerosblocks:4.0.4-96@jar",
           "name": "WesterosBlocks",
           "type": "ForgeMod",
@@ -465,16 +495,6 @@
             "size": 17654349,
             "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/WesterosBlocks.jar",
             "MD5": "ac07db8c2a1dbd6f3d2e15d77a33c4d5"
-          }
-        },
-        {
-          "id": "org.valkyrienskies.addon.control:vs_control:1.0-alpha-1@jar",
-          "name": "OPGA2",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 9219227,
-            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGA-1.12.2/forgemods/required/worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar",
-            "MD5": "cd2d03de6d910f7d54eb0d80ba0a51ff"
           }
         }
       ]
@@ -930,6 +950,36 @@
           }
         },
         {
+          "id": "org.valkyrienskies.addon.control:vs_control:1.0.0+6b23536a5c@jar",
+          "name": "Valkyrien Skies Control",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7679526,
+            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGAStaff-1.12.2/forgemods/required/vs-control.jar",
+            "MD5": "7999a7003ecb8c09870c6f371a7eff6b"
+          }
+        },
+        {
+          "id": "org.valkyrienskies.addon.world:vs_world:1.12.2-1.0.0@jar",
+          "name": "Valkyrien Skies World",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2084852,
+            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGAStaff-1.12.2/forgemods/required/vs-world.jar",
+            "MD5": "140e7f682b7d56bf163e40c7f8ba2e8c"
+          }
+        },
+        {
+          "id": "org.valkyrienskies.mod:valkyrienskies:1.0.0+8049df3f10@jar",
+          "name": "Valkyrien Skies Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8248176,
+            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGAStaff-1.12.2/forgemods/required/vs.jar",
+            "MD5": "7befd03a4fa493acd263ed43dbed36b6"
+          }
+        },
+        {
           "id": "com.westeroscraft:westerosblocks:4.0.4-96@jar",
           "name": "WesterosBlocks",
           "type": "ForgeMod",
@@ -937,16 +987,6 @@
             "size": 17654349,
             "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGAStaff-1.12.2/forgemods/required/WesterosBlocks.jar",
             "MD5": "ac07db8c2a1dbd6f3d2e15d77a33c4d5"
-          }
-        },
-        {
-          "id": "org.valkyrienskies.addon.control:vs_control:1.0-alpha-1@jar",
-          "name": "OPGA2",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 9219227,
-            "url": "https://raw.githubusercontent.com/OPYU/OPGAhost/master/servers/OPGAStaff-1.12.2/forgemods/required/worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar",
-            "MD5": "cd2d03de6d910f7d54eb0d80ba0a51ff"
           }
         }
       ]
